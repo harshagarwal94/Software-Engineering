@@ -2,7 +2,7 @@
 Provideing information regarding Software Engineering in Vellore Institute of Technology (VIT)
 (VIT BHOPAL UNIVERSITY)
 
-# Course Instructor - Dr. Anand Motwani
+### Course Instructor - Dr. Anand Motwani
 
 # Overview 
 
